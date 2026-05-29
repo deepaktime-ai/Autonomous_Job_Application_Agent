@@ -1,0 +1,52 @@
+{
+    "applied_jobs": [
+        {
+            "title": "Python Developer",
+            "company": "TCS"
+        },
+        {
+            "title": "Python Developer",
+            "company": "TCS",
+            "location": "Remote"
+        }
+    ],
+    "viewed_jobs": [
+        {
+            "title": "Python Developer",
+            "company": "TCS"
+        },
+        {
+            "title": "Python Developer",
+            "company": "TCS",
+            "location": "Remote",
+            "skills": [
+                "Python",
+                "Django",
+                "REST"
+            ],
+            "description": "Looking for Python developer with Django experience."
+        },
+        {
+            "title": "AI Engineer",
+            "company": "Infosys",
+            "location": "Bangalore",
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning"
+            ],
+            "description": "AI Engineer with ML and DL knowledge."
+        },
+        {
+            "title": "Backend Developer",
+            "company": "Wipro",
+            "location": "Hyderabad",
+            "skills": [
+                "Python",
+                "FastAPI",
+                "Databases"
+            ],
+            "description": "Backend developer with API experience."
+        }
+    ]
+}
